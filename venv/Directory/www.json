@@ -41,7 +41,7 @@
 },
 {
   "model": "www.person",
-  "pk": 1,
+  "pk": 5,
   "fields": {
     "name": "Chris C",
     "email": "ccarr@technologypartners.net",
