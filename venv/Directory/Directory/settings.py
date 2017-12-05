@@ -25,7 +25,7 @@ SECRET_KEY = 'rp^1_9*bl7#$8q^=tav!e1cc07gcsvl749!1y9(y^=q9j4rd_x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = quiet-ridge-65481.herokuapp.com
+ALLOWED_HOSTS = []
 
 
 # Application definition
